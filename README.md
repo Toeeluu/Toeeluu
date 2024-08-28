@@ -3,7 +3,7 @@
 <h2>👨‍💻 GRC Projects:</h2>
 
 - <b>Security Awareness training: Cybersecurity basics for High School students[(https://github.com/Toeeluu/Security-Awareness-Training)
-- Information Security Policy Development for a small business (www.wizer.com/colpipe)
+- Information Security Policy Development for a small business(https://github.com/Toeeluu/Information-security-policies-for-small-businesses/blob/main/README.md)
 - Educational video: Understanding the dangers of Phishing (www.wizer.com/colpipe)
 - Security Awareness training for Drug Law Enforcement Agency</b>
  
