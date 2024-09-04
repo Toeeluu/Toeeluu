@@ -8,9 +8,6 @@
 - Security Awareness training for Drug Law Enforcement Agency</b>
  
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Cybersecurity tips to keep your digital space safe](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 
 <h2> 🤳 Connect with me:</h2>
